@@ -1,20 +1,61 @@
-### Hi there 👋
-
 <!--
-**carlosnizolli/carlosnizolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Copy this file to a repository named exactly like your GitHub username:
+  https://github.com/carlosnizolli/carlosnizolli → README.md
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  That makes it your GitHub profile README.
 -->
-<div align="center">
-  <a href="https://github.com/carlosnizolli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosnizolli&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+# Carlos Nizolli
+
+**QA Automation · Robot Framework · Open Source**
+
+I build tooling around [Robot Framework](https://robotframework.org/): AI-assisted oracles, CI images, static analysis actions, and result persistence.
+
+[English](#featured-projects) · [Português](#projetos-em-destaque)
+
+---
+
+## Featured projects
+
+| Project | Role | Links |
+|---------|------|-------|
+| **robotframework-gemini** | Gemini text & multimodal oracles for Robot Framework (PyPI) | [GitHub](https://github.com/carlosnizolli/robotframework-gemini) · [PyPI](https://pypi.org/project/robotframework-gemini/) |
+| **robotframework-gemini_exemplos** | Practical suites showing real usage of the lib | [GitHub](https://github.com/carlosnizolli/robotframework-gemini_exemplos) |
+| **RobotToPGListener** | Robot listener that persists each test result to PostgreSQL | [GitHub](https://github.com/carlosnizolli/RobotToPGListener) · [PyPI](https://pypi.org/project/robot-to-pg-listener/) |
+| **docker-robotframework** | Ubuntu image for RF + Browser (Playwright), OCR, CI-ready | [GitHub](https://github.com/carlosnizolli/docker-robotframework) |
+| **RoboCop** | GitHub Action wrapping Robocop (RF static analysis) | [GitHub](https://github.com/carlosnizolli/RoboCop) |
+
+### Story in one line
+
+**Judge with AI** → **run examples** → **store results** → **execute in Docker** → **lint in CI**.
+
+### Stack
+
+`Robot Framework` · `Playwright / robotframework-browser` · `Docker` · `GitHub Actions` · `PostgreSQL` · `Google Gemini` · `PyPI`
+
+---
+
+## Projetos em destaque
+
+| Projeto | Papel | Links |
+|---------|-------|-------|
+| **robotframework-gemini** | Oráculos Gemini (texto e multimodal) para Robot Framework (PyPI) | [GitHub](https://github.com/carlosnizolli/robotframework-gemini) · [PyPI](https://pypi.org/project/robotframework-gemini/) |
+| **robotframework-gemini_exemplos** | Suítes práticas com uso real da lib | [GitHub](https://github.com/carlosnizolli/robotframework-gemini_exemplos) |
+| **RobotToPGListener** | Listener RF que grava resultados no PostgreSQL | [GitHub](https://github.com/carlosnizolli/RobotToPGListener) · [PyPI](https://pypi.org/project/robot-to-pg-listener/) |
+| **docker-robotframework** | Imagem Ubuntu para RF + Browser (Playwright), OCR e CI | [GitHub](https://github.com/carlosnizolli/docker-robotframework) |
+| **RoboCop** | GitHub Action com Robocop (análise estática de código RF) | [GitHub](https://github.com/carlosnizolli/RoboCop) |
+
+### Narrativa
+
+**Julgar com IA** → **exemplos reais** → **persistir resultados** → **executar em Docker** → **qualidade no CI**.
+
+---
+
+<p align="left">
+  <a href="https://pypi.org/project/robotframework-gemini/">
+    <img src="https://img.shields.io/pypi/v/robotframework-gemini?label=robotframework-gemini" alt="PyPI version" />
+  </a>
+  <a href="https://github.com/carlosnizolli/robotframework-gemini">
+    <img src="https://img.shields.io/github/stars/carlosnizolli/robotframework-gemini?style=social" alt="Stars" />
+  </a>
+</p>
